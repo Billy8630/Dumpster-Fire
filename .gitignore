@@ -1,4 +1,4 @@
-﻿# Blender backups and autosaves
+# Blender backups and autosaves
 *.blend1
 *.blend2
 *.blend@
@@ -19,7 +19,6 @@ $RECYCLE.BIN/
 .vs/
 
 # Packaged mod builds (keep source files, not the zips)
-*.zip
 
 # Logs
 *.log
